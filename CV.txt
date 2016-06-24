@@ -1,0 +1,15 @@
+DOMAINES DE COMPETENCE
+
+
+
+
+
+
+
+Langage de programmation : PHP, JAVA, Python
+ERP (Entreprise Ressource Planning) : Odoo, ERP5
+                                      Administration système et réseaux : Debian, RIP, Ospf, etc.
+                                      Système de gestion des bases de données : Mysql, PostgressOracle, SqlServer
+                                      Bussiness Intelligence : QlikView, Publisher
+                                      Otils de versionning : Git
+                                      CMS : Joomla, Prestashop
