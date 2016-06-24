@@ -1,11 +1,5 @@
 DOMAINES DE COMPETENCE
-
-
-
-
-
-
-
+
 Langage de programmation : PHP, JAVA, Python
 ERP (Entreprise Ressource Planning) : Odoo, ERP5
                                       Administration système et réseaux : Debian, RIP, Ospf, etc.
@@ -13,3 +7,11 @@ ERP (Entreprise Ressource Planning) : Odoo, ERP5
                                       Bussiness Intelligence : QlikView, Publisher
                                       Otils de versionning : Git
                                       CMS : Joomla, Prestashop
+
+EXPERIENCE PROFESSIONNELLES
+                                      CAM NETWORK, Freelans - 2015
+                                      Mise en place d’Odoo 8 dans la gestion de l’Hôtel le sahel Cameroun.
+                                      -Expressions de besoins
+                                      -Rédaction de cahiers des charges
+                                      -Spécifications fonctionnelles
+                                      -Rédaction du guide utilisateur
